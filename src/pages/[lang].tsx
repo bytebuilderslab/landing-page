@@ -264,9 +264,9 @@ export default function LandingPage({
                           {panel.category}
                         </h3>
                       </div>
-                      <span className="rounded-full border border-[var(--color-line-strong)] px-3 py-1 text-xs font-semibold uppercase tracking-[0.16em] text-[var(--color-accent-deep)]">
+                      {/* <span className="rounded-full border border-[var(--color-line-strong)] px-3 py-1 text-xs font-semibold uppercase tracking-[0.16em] text-[var(--color-accent-deep)]">
                         {t.sections.examples.badge}
-                      </span>
+                      </span> */}
                     </div>
 
                     <div className="grid gap-px bg-[var(--color-line)] md:grid-cols-2">
