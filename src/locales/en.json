@@ -1,0 +1,242 @@
+{
+  "title": "ByteBuildersLab | AI Workflow Audits and Implementation",
+  "description": "AI workflow audits and implementation for small business owners and operations managers dealing with repetitive admin work.",
+  "nav": {
+    "process": "How it works",
+    "results": "Results",
+    "fit": "Who it's for",
+    "about": "About"
+  },
+  "cta": {
+    "book": "Book the AI Workflow Audit",
+    "examples": "See examples"
+  },
+  "languageLabel": "Language",
+  "hero": {
+    "eyebrow": "For small business owners and operations managers",
+    "title": "Save time on admin work with practical AI systems",
+    "body1": "Reduce the hours lost to inbox triage, follow-up, scheduling, and repetitive coordination work.",
+    "body2": "We audit one workflow bottleneck, identify the first wins worth pursuing, and build around how your business already operates.",
+    "trust": [
+      {
+        "title": "Process fit",
+        "text": "Implementation is shaped around how your business already runs, not around forcing a new way of working."
+      },
+      {
+        "title": "Engagement",
+        "text": "A fixed-price two-week audit focused on your most important workflow bottleneck."
+      },
+      {
+        "title": "Outcome",
+        "text": "First automation wins worth pursuing, plus a high-level direction for implementation."
+      }
+    ]
+  },
+  "diagnosis": {
+    "eyebrow": "Workflow diagnosis",
+    "title": "Admin drag, marked and rerouted",
+    "status": "Audit in progress",
+    "before": "Before",
+    "after": "After",
+    "friction": "Friction",
+    "resolved": "Resolved",
+    "beforeSteps": [
+      "Inbox sorting",
+      "Manual reminders",
+      "Document chasing",
+      "Status copied twice",
+      "No clear ownership"
+    ],
+    "afterSteps": [
+      "Structured intake",
+      "Automated follow-up",
+      "Shared task handoff",
+      "Single source of status",
+      "Visible next owner"
+    ],
+    "signals": [
+      {
+        "label": "Time loss",
+        "value": "Visible",
+        "detail": "Repeated manual handling identified"
+      },
+      {
+        "label": "First wins",
+        "value": "Ranked",
+        "detail": "High-friction steps surfaced first"
+      },
+      {
+        "label": "Implementation",
+        "value": "Scoped",
+        "detail": "High-level next phase direction"
+      }
+    ]
+  },
+  "sections": {
+    "examples": {
+      "kicker": "Examples",
+      "title": "Placeholder workflow examples built to become your future proof library",
+      "copy": "These are structured placeholders, not fake case studies. They are designed to show how the before and after pattern works now, while giving you a repeatable format for future SEO and proof pages.",
+      "badge": "Placeholder"
+    },
+    "process": {
+      "kicker": "How it works",
+      "title": "A defined first phase, not general AI exploration",
+      "copy": "Practical implementation, not AI exploration. The engagement starts with a fixed-price audit and moves into workflow implementation when there is a clear fit."
+    },
+    "audit": {
+      "kicker": "AI Workflow Audit",
+      "title": "A fixed-price two-week first step for one important workflow bottleneck",
+      "copy": "The audit centers on your most important workflow bottleneck, such as inbox handling, follow-up, scheduling, or document coordination. By the end, you have the first automation wins worth pursuing and a high-level direction for what comes next.",
+      "phaseOne": "Phase one",
+      "priceNote": "Fixed price for the AI Workflow Audit",
+      "duration": "Two weeks",
+      "items": [
+        "Focused on your most important workflow bottleneck",
+        "Workflow map showing where admin time is being lost",
+        "First automation opportunities worth pursuing",
+        "High-level implementation direction for the next phase"
+      ]
+    },
+    "fit": {
+      "kicker": "Who it's for",
+      "title": "Best fit for businesses already feeling recurring admin drag",
+      "copy": "This is a strong fit when repetitive admin work is already slowing follow-up, delivery, or internal coordination. It is less useful when the goal is general AI experimentation without a workflow problem to solve.",
+      "positive": "Positive fit signals",
+      "negative": "Probably not the right fit if"
+    },
+    "results": {
+      "kicker": "Results",
+      "title": "Proof section architecture, ready for real case-study outcomes",
+      "copy": "This section is intentionally structured for real result cards later, without inventing proof now. When you have outcomes to add, these can become short case-study entries with process improvements or metrics."
+    },
+    "about": {
+      "kicker": "About",
+      "title": "Operational credibility first, supported by implementation depth",
+      "copy": "This section is designed to foreground your understanding of the messy admin-heavy work that quietly slows small businesses down, while still making it clear that you can turn that understanding into working systems.",
+      "portraitEyebrow": "Founder portrait",
+      "portraitText": "Replace this reserved image area with a clean professional portrait.",
+      "quote": "I focus on fixing the admin-heavy workflows that quietly drain time, attention, and consistency inside small businesses.",
+      "body": [
+        "The point is not to add more software or more AI language. The point is to remove repeated admin drag from the work that already matters.",
+        "That means starting with the real bottleneck, understanding how the team currently works, and implementing practical changes that reduce friction without creating a second job to maintain."
+      ]
+    },
+    "faq": {
+      "kicker": "FAQ",
+      "title": "Practical questions, answered briefly"
+    },
+    "final": {
+      "kicker": "Next step",
+      "title": "Book the AI Workflow Audit and start with one workflow worth fixing",
+      "copy": "A fixed-price two-week engagement for businesses that want practical implementation, not more admin work dressed up as AI."
+    },
+    "footer": {
+      "descriptor": "AI workflow audits and implementation for small businesses dealing with repetitive admin drag.",
+      "booking": "Book the audit"
+    }
+  },
+  "processSteps": [
+    {
+      "id": "01",
+      "title": "Audit",
+      "description": "We review one high-friction workflow and map where time, follow-up, and consistency start breaking down."
+    },
+    {
+      "id": "02",
+      "title": "First wins",
+      "description": "You get the first automation opportunities worth pursuing, based on operational drag rather than generic AI ideas."
+    },
+    {
+      "id": "03",
+      "title": "Workflow implementation",
+      "description": "If there is a fit, most clients continue into focused implementation around the highest-value improvements first."
+    }
+  ],
+  "examplePanels": [
+    {
+      "title": "Example workflow",
+      "category": "Inbox and follow-up",
+      "beforeLabel": "Manual process",
+      "afterLabel": "AI-assisted process",
+      "before": [
+        "Manual sorting across email, notes, and shared docs",
+        "Follow-up timing depends on memory",
+        "Client requests are copied between tools",
+        "No clear ownership when something stalls"
+      ],
+      "after": [
+        "Requests land in one structured intake flow",
+        "Follow-up steps are triggered with clear timing",
+        "Key details move once into the right system",
+        "Ownership stays visible from request to completion"
+      ]
+    },
+    {
+      "title": "Example workflow",
+      "category": "Scheduling and document handling",
+      "beforeLabel": "Manual process",
+      "afterLabel": "AI-assisted process",
+      "before": [
+        "Appointments, forms, and reminders are chased separately",
+        "Repeated admin questions interrupt delivery work",
+        "Documents arrive incomplete or in inconsistent formats",
+        "Status updates live in inboxes instead of a shared flow"
+      ],
+      "after": [
+        "Scheduling, reminders, and intake follow one path",
+        "Common admin steps are handled before they become interruptions",
+        "Required documents are requested in a consistent order",
+        "Progress is visible without repeated check-ins"
+      ]
+    }
+  ],
+  "fitSignals": [
+    "Repetitive admin work is slowing delivery, follow-up, or scheduling.",
+    "Important operational details still live in inboxes, spreadsheets, or memory.",
+    "Your team feels the drag, but you do not need a massive transformation project."
+  ],
+  "disqualifiers": [
+    "You are looking for general AI experimentation or prompt training.",
+    "There is no meaningful workflow bottleneck to fix yet."
+  ],
+  "proofCards": [
+    {
+      "title": "Result placeholder",
+      "metric": "Time saved",
+      "note": "Add a real operational outcome here later."
+    },
+    {
+      "title": "Result placeholder",
+      "metric": "Follow-up improved",
+      "note": "Use this slot for a workflow cleanup result or process improvement."
+    },
+    {
+      "title": "Result placeholder",
+      "metric": "Manual steps reduced",
+      "note": "Designed for future proof without inventing social proof now."
+    }
+  ],
+  "faqItems": [
+    {
+      "question": "What happens after the AI Workflow Audit?",
+      "answer": "Most clients continue into implementation. The audit surfaces the first workflow improvements worth pursuing, and the next phase focuses on putting those systems in place in a way that fits how the business already works."
+    },
+    {
+      "question": "How do you decide which workflow to focus on?",
+      "answer": "We center the audit on the workflow bottleneck creating the most operational drag right now. That is usually where admin effort, follow-up delays, or handoff confusion are already affecting delivery."
+    },
+    {
+      "question": "How much time will this take from my team?",
+      "answer": "The audit is designed to stay focused. You should expect a limited amount of input from the people closest to the workflow, not a sprawling internal project."
+    },
+    {
+      "question": "Do I need specific tools or software already in place?",
+      "answer": "No. The work is tool-aware, not tool-led. We can work around the systems you already use across email, documents, scheduling, CRM, and internal tracking."
+    },
+    {
+      "question": "Is this right for a small business that has not used AI before?",
+      "answer": "Yes, as long as there is a real workflow bottleneck to improve. This is practical implementation work, not AI exploration for its own sake."
+    }
+  ]
+}
