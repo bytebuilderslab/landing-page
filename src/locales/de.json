@@ -1,0 +1,242 @@
+{
+  "title": "ByteBuildersLab | KI-Workflow-Audits und Umsetzung",
+  "description": "KI-Workflow-Audits und Umsetzung für kleine Unternehmen, Inhaber:innen und Operations-Verantwortliche mit wiederkehrender Admin-Arbeit.",
+  "nav": {
+    "process": "Ablauf",
+    "results": "Ergebnisse",
+    "fit": "Für wen",
+    "about": "Über mich"
+  },
+  "cta": {
+    "book": "KI-Workflow-Audit buchen",
+    "examples": "Beispiele ansehen"
+  },
+  "languageLabel": "Sprache",
+  "hero": {
+    "eyebrow": "Für KMU-Inhaber:innen und Operations-Verantwortliche",
+    "title": "Mit praxisnahen KI-Systemen Zeit bei Admin-Arbeit sparen",
+    "body1": "Reduzieren Sie die Stunden, die für Inbox-Triage, Nachverfolgung, Terminplanung und wiederkehrende Koordination verloren gehen.",
+    "body2": "Wir prüfen einen Workflow-Engpass, identifizieren die ersten sinnvollen Automatisierungsgewinne und bauen auf der Arbeitsweise Ihres Unternehmens auf.",
+    "trust": [
+      {
+        "title": "Passung",
+        "text": "Die Umsetzung orientiert sich an Ihren bestehenden Abläufen und erzwingt keine künstlich neue Arbeitsweise."
+      },
+      {
+        "title": "Rahmen",
+        "text": "Ein Audit zum Festpreis über zwei Wochen, fokussiert auf Ihren wichtigsten Workflow-Engpass."
+      },
+      {
+        "title": "Ergebnis",
+        "text": "Die ersten sinnvollen Automatisierungsansätze plus eine grobe Richtung für die Umsetzung."
+      }
+    ]
+  },
+  "diagnosis": {
+    "eyebrow": "Workflow-Diagnose",
+    "title": "Admin-Reibung sichtbar gemacht und neu geordnet",
+    "status": "Audit läuft",
+    "before": "Vorher",
+    "after": "Nachher",
+    "friction": "Reibung",
+    "resolved": "Geordnet",
+    "beforeSteps": [
+      "Inbox sortieren",
+      "Manuelle Erinnerungen",
+      "Dokumenten hinterherlaufen",
+      "Status doppelt übertragen",
+      "Keine klare Zuständigkeit"
+    ],
+    "afterSteps": [
+      "Strukturierte Aufnahme",
+      "Automatisierte Nachverfolgung",
+      "Klare Aufgabenübergabe",
+      "Eine gemeinsame Statusquelle",
+      "Nächste Zuständigkeit sichtbar"
+    ],
+    "signals": [
+      {
+        "label": "Zeitverlust",
+        "value": "Sichtbar",
+        "detail": "Wiederholte manuelle Arbeit erkannt"
+      },
+      {
+        "label": "Erste Gewinne",
+        "value": "Priorisiert",
+        "detail": "Schritte mit hoher Reibung zuerst identifiziert"
+      },
+      {
+        "label": "Umsetzung",
+        "value": "Abgesteckt",
+        "detail": "Grobe Richtung für die nächste Phase"
+      }
+    ]
+  },
+  "sections": {
+    "examples": {
+      "kicker": "Beispiele",
+      "title": "Platzhalter für Workflow-Beispiele, die später Ihre Proof-Bibliothek werden",
+      "copy": "Das sind strukturierte Platzhalter und keine erfundenen Fallstudien. Sie zeigen schon jetzt das Vorher-Nachher-Muster und geben Ihnen später ein wiederverwendbares Format für SEO- und Proof-Seiten.",
+      "badge": "Platzhalter"
+    },
+    "process": {
+      "kicker": "Ablauf",
+      "title": "Eine klar definierte erste Phase statt allgemeiner KI-Exploration",
+      "copy": "Praktische Umsetzung statt KI-Experimentieren. Die Zusammenarbeit startet mit einem Audit zum Festpreis und geht bei klarer Passung in die Workflow-Umsetzung über."
+    },
+    "audit": {
+      "kicker": "KI-Workflow-Audit",
+      "title": "Ein klarer erster Schritt über zwei Wochen zum Festpreis für einen wichtigen Workflow-Engpass",
+      "copy": "Das Audit konzentriert sich auf Ihren wichtigsten Workflow-Engpass, zum Beispiel Inbox-Bearbeitung, Nachverfolgung, Terminplanung oder Dokumentenkoordination. Am Ende kennen Sie die ersten sinnvollen Automatisierungsgewinne und die grobe Richtung für den nächsten Schritt.",
+      "phaseOne": "Phase eins",
+      "priceNote": "Festpreis für das KI-Workflow-Audit",
+      "duration": "Zwei Wochen",
+      "items": [
+        "Fokussiert auf Ihren wichtigsten Workflow-Engpass",
+        "Workflow-Map mit sichtbaren Zeitverlusten in der Admin-Arbeit",
+        "Die ersten sinnvollen Automatisierungsmöglichkeiten",
+        "Grobe Umsetzungsrichtung für die nächste Phase"
+      ]
+    },
+    "fit": {
+      "kicker": "Für wen",
+      "title": "Am besten geeignet für Unternehmen, die wiederkehrende Admin-Reibung bereits spüren",
+      "copy": "Die Zusammenarbeit passt gut, wenn wiederkehrende Admin-Arbeit bereits Follow-up, Ausführung oder interne Koordination ausbremst. Weniger sinnvoll ist sie, wenn es nur um allgemeines KI-Ausprobieren ohne konkretes Workflow-Problem geht.",
+      "positive": "Gute Fit-Signale",
+      "negative": "Wahrscheinlich nicht passend, wenn"
+    },
+    "results": {
+      "kicker": "Ergebnisse",
+      "title": "Proof-Struktur, bereit für echte Fallstudien und operative Resultate",
+      "copy": "Dieser Bereich ist bewusst für echte Ergebnis-Karten vorbereitet, ohne jetzt künstliche Proofs zu erfinden. Später können daraus kurze Fallstudien mit Prozessverbesserungen oder Kennzahlen werden."
+    },
+    "about": {
+      "kicker": "Über mich",
+      "title": "Operatives Verständnis zuerst, getragen von technischer Umsetzungstiefe",
+      "copy": "Dieser Bereich ist darauf ausgelegt, Ihr Verständnis für die unordentliche adminlastige Arbeit zu zeigen, die kleine Unternehmen im Hintergrund ausbremst, und gleichzeitig deutlich zu machen, dass Sie daraus funktionierende Systeme bauen können.",
+      "portraitEyebrow": "Gründerportrait",
+      "portraitText": "Diesen reservierten Bildbereich später mit einem professionellen Portrait ersetzen.",
+      "quote": "Ich konzentriere mich auf adminlastige Workflows, die kleinen Unternehmen still Zeit, Aufmerksamkeit und Verlässlichkeit entziehen.",
+      "body": [
+        "Es geht nicht darum, mehr Software oder mehr KI-Sprache einzuführen. Es geht darum, wiederkehrende Admin-Reibung aus der Arbeit zu nehmen, die bereits wichtig ist.",
+        "Das bedeutet: beim echten Engpass anfangen, verstehen, wie das Team heute arbeitet, und praktische Änderungen umsetzen, die Reibung verringern, ohne einen zweiten Wartungsjob zu erzeugen."
+      ]
+    },
+    "faq": {
+      "kicker": "FAQ",
+      "title": "Kurze Antworten auf praktische Fragen"
+    },
+    "final": {
+      "kicker": "Nächster Schritt",
+      "title": "Buchen Sie das KI-Workflow-Audit und starten Sie mit einem Workflow, den es sich wirklich zu verbessern lohnt",
+      "copy": "Ein fokussierter Zwei-Wochen-Einstieg zum Festpreis für Unternehmen, die praktische Umsetzung wollen, nicht noch mehr Admin-Arbeit mit KI-Etikett."
+    },
+    "footer": {
+      "descriptor": "KI-Workflow-Audits und Umsetzung für kleine Unternehmen mit wiederkehrender Admin-Reibung.",
+      "booking": "Audit buchen"
+    }
+  },
+  "processSteps": [
+    {
+      "id": "01",
+      "title": "Audit",
+      "description": "Wir prüfen einen Workflow mit hoher Reibung und machen sichtbar, wo Zeit, Nachverfolgung und Verlässlichkeit verloren gehen."
+    },
+    {
+      "id": "02",
+      "title": "Erste Gewinne",
+      "description": "Sie erhalten die ersten Automatisierungsmöglichkeiten, die sich wirklich lohnen, basierend auf operativer Reibung statt auf generischen KI-Ideen."
+    },
+    {
+      "id": "03",
+      "title": "Workflow-Umsetzung",
+      "description": "Wenn es passt, gehen die meisten Projekte im Anschluss in eine fokussierte Umsetzung der wertvollsten Verbesserungen über."
+    }
+  ],
+  "examplePanels": [
+    {
+      "title": "Beispiel-Workflow",
+      "category": "Inbox und Nachverfolgung",
+      "beforeLabel": "Manueller Prozess",
+      "afterLabel": "KI Prozess",
+      "before": [
+        "Manuelles Sortieren über E-Mail, Notizen und geteilte Dokumente",
+        "Follow-up hängt vom Gedächtnis ab",
+        "Kundenanfragen werden zwischen Tools kopiert",
+        "Keine klare Zuständigkeit bei Verzögerungen"
+      ],
+      "after": [
+        "Anfragen landen in einem strukturierten Intake-Ablauf",
+        "Nachverfolgung wird mit klaren Zeitpunkten ausgelöst",
+        "Wichtige Informationen werden nur einmal sauber übergeben",
+        "Zuständigkeit bleibt vom Eingang bis zum Abschluss sichtbar"
+      ]
+    },
+    {
+      "title": "Beispiel-Workflow",
+      "category": "Terminplanung und Dokumentenhandling",
+      "beforeLabel": "Manueller Prozess",
+      "afterLabel": "KI Prozess",
+      "before": [
+        "Termine, Formulare und Erinnerungen werden getrennt nachverfolgt",
+        "Wiederkehrende Admin-Fragen unterbrechen die eigentliche Arbeit",
+        "Dokumente kommen unvollständig oder uneinheitlich an",
+        "Status-Updates liegen in Postfächern statt in einem gemeinsamen Ablauf"
+      ],
+      "after": [
+        "Terminplanung, Erinnerungen und Intake laufen in einem Pfad",
+        "Häufige Admin-Schritte werden abgefangen, bevor sie unterbrechen",
+        "Benötigte Dokumente werden in klarer Reihenfolge angefragt",
+        "Fortschritt ist sichtbar, ohne ständige Nachfragen"
+      ]
+    }
+  ],
+  "fitSignals": [
+    "Wiederkehrende Admin-Arbeit bremst Ausführung, Nachverfolgung oder Terminplanung.",
+    "Wichtige operative Details liegen noch in Postfächern, Tabellen oder im Kopf.",
+    "Ihr Team spürt die Reibung, braucht aber kein großes Transformationsprojekt."
+  ],
+  "disqualifiers": [
+    "Sie suchen vor allem allgemeines KI-Ausprobieren oder Prompt-Training.",
+    "Es gibt noch keinen klaren Workflow-Engpass, der gelöst werden muss."
+  ],
+  "proofCards": [
+    {
+      "title": "Ergebnis-Platzhalter",
+      "metric": "Zeit gespart",
+      "note": "Hier später ein echtes operatives Ergebnis ergänzen."
+    },
+    {
+      "title": "Ergebnis-Platzhalter",
+      "metric": "Follow-up verbessert",
+      "note": "Diesen Platz später für eine Workflow-Verbesserung oder ein Prozessresultat nutzen."
+    },
+    {
+      "title": "Ergebnis-Platzhalter",
+      "metric": "Manuelle Schritte reduziert",
+      "note": "Bewusst als Platzhalter angelegt, ohne künstlichen Social Proof."
+    }
+  ],
+  "faqItems": [
+    {
+      "question": "Was passiert nach dem KI-Workflow-Audit?",
+      "answer": "Die meisten Kund:innen gehen danach in die Umsetzung. Das Audit macht die ersten sinnvollen Verbesserungen sichtbar, und die nächste Phase konzentriert sich darauf, diese Systeme passend zu Ihrer bestehenden Arbeitsweise einzuführen."
+    },
+    {
+      "question": "Wie entscheiden Sie, welcher Workflow im Fokus steht?",
+      "answer": "Wir richten das Audit auf den Workflow-Engpass aus, der aktuell die meiste operative Reibung verursacht. Meist ist das dort, wo Admin-Aufwand, Follow-up-Verzögerungen oder unklare Übergaben die Ausführung bereits bremsen."
+    },
+    {
+      "question": "Wie viel Zeit braucht das von meinem Team?",
+      "answer": "Das Audit ist bewusst fokussiert. Sie sollten nur mit begrenztem Input der Personen rechnen, die am nächsten am Workflow arbeiten, nicht mit einem ausufernden internen Projekt."
+    },
+    {
+      "question": "Brauche ich bereits bestimmte Tools oder Software?",
+      "answer": "Nein. Die Arbeit ist tool-bewusst, aber nicht tool-getrieben. Wir können uns an Ihre bestehende Umgebung rund um E-Mail, Dokumente, Terminplanung, CRM und internes Tracking anpassen."
+    },
+    {
+      "question": "Ist das auch sinnvoll für kleine Unternehmen ohne KI-Erfahrung?",
+      "answer": "Ja, solange es einen echten Workflow-Engpass gibt. Es geht um praktische Umsetzung und nicht um KI-Exploration um der Exploration willen."
+    }
+  ]
+}
