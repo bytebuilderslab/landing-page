@@ -2,8 +2,8 @@
 title: The Swiss Alpha Digest
 description: How The Swiss Alpha Digest solves portfolio managers manually summarizing quarterly market reports with AI and automation.
 excerpt: 10 hours/week saved per manager.
-publishedAt: 2024-05-20
-updatedAt: 2024-05-20
+publishedAt: 2026-04-20
+updatedAt: 2026-04-20
 author: Ameet Madan
 category: AI Solutions
 tags:

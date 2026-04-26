@@ -155,7 +155,7 @@
   ],
   "examplePanels": [
     {
-      "title": "Beispiel-Workflow",
+      "title": "Workflow",
       "category": "Inbox und Nachverfolgung",
       "beforeLabel": "Manueller Prozess",
       "afterLabel": "KI Prozess",
@@ -173,7 +173,7 @@
       ]
     },
     {
-      "title": "Beispiel-Workflow",
+      "title": "Workflow",
       "category": "Terminplanung und Dokumentenhandling",
       "beforeLabel": "Manueller Prozess",
       "afterLabel": "KI Prozess",

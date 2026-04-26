@@ -2,8 +2,8 @@
 title: The Concierge de Luxe
 description: How The Concierge de Luxe solves global inquiries in 10 languages handled by one small team with AI and automation.
 excerpt: Consistent global brand voice; 24/7 service.
-publishedAt: 2024-05-20
-updatedAt: 2024-05-20
+publishedAt: 2026-04-20
+updatedAt: 2026-04-20
 author: Ameet Madan
 category: AI Solutions
 tags:

@@ -42,14 +42,14 @@ export default function ArticlesIndex({
           <section className="relative overflow-hidden rounded-[2.2rem] border border-[var(--color-line)] bg-white px-6 py-10 shadow-[var(--shadow-panel)] lg:px-10 lg:py-14">
             <div className="absolute inset-0 bg-[radial-gradient(circle_at_top_left,rgba(104,143,179,0.18),transparent_35%),linear-gradient(135deg,rgba(255,255,255,0.9),rgba(236,242,247,0.9))]" />
             <div className="relative max-w-3xl">
-              <p className="section-kicker">Editorial System</p>
+              <p className="section-kicker">The System</p>
               <h1 className="section-title max-w-2xl">
-                Markdown-authored SEO articles with reusable traffic structure.
+                Examples of workflows which can be optimized with AI
               </h1>
-              <p className="section-copy max-w-2xl">
+              {/* <p className="section-copy max-w-2xl">
                 This example index is built from local Markdown files with frontmatter. Add
                 a new file in `content/articles` and the page is generated automatically.
-              </p>
+              </p> */}
             </div>
           </section>
 

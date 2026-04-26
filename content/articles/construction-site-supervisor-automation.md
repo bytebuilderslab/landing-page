@@ -2,8 +2,8 @@
 title: The Site Supervisor AI
 description: How The Site Supervisor AI solves project leads chasing subcontractors via email for status updates with AI and automation.
 excerpt: Real-time project tracking without phone tag.
-publishedAt: 2024-05-20
-updatedAt: 2024-05-20
+publishedAt: 2026-04-20
+updatedAt: 2026-04-20
 author: Ameet Madan
 category: AI Solutions
 tags:

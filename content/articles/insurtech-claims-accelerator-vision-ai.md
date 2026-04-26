@@ -2,8 +2,8 @@
 title: The Claims Accelerator
 description: How The Claims Accelerator solves claim adjusters manually checking photos against policy rules with AI and automation.
 excerpt: 50% faster claims payout; improved customer CX.
-publishedAt: 2024-05-20
-updatedAt: 2024-05-20
+publishedAt: 2026-04-20
+updatedAt: 2026-04-20
 author: Ameet Madan
 category: AI Solutions
 tags:

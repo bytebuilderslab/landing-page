@@ -2,8 +2,8 @@
 title: The Polyglot Merchant
 description: How The Polyglot Merchant solves manual translation of product descriptions (de, fr, it) with AI and automation.
 excerpt: 95% cost saving vs. translation agencies.
-publishedAt: 2024-05-20
-updatedAt: 2024-05-20
+publishedAt: 2026-04-20
+updatedAt: 2026-04-20
 author: Ameet Madan
 category: AI Solutions
 tags:

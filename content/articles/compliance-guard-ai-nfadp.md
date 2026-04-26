@@ -2,8 +2,8 @@
 title: The Compliance Guard
 description: How The Compliance Guard solves manual review of 100+ page contracts for nfadp compliance with AI and automation.
 excerpt: 90% faster triage; zero human fatigue errors.
-publishedAt: 2024-05-20
-updatedAt: 2024-05-20
+publishedAt: 2026-04-20
+updatedAt: 2026-04-20
 author: Ameet Madan
 category: AI Solutions
 tags:

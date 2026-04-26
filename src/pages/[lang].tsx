@@ -42,13 +42,19 @@ export const getStaticProps: GetStaticProps<{ language: Language }> = async ({
   };
 };
 
-export default function LocalizedPage({
+export default function LandingPage({
   language,
 }: InferGetStaticPropsType<typeof getStaticProps>) {
   const t: Content = content[language];
   const otherLanguage: Language = language === "en" ? "de" : "en";
   const currentBase = `/${language}`;
   const otherBase = `/${otherLanguage}`;
+  // TODO(ameet): Confirm this is the final Cal.com booking URL to keep all booking CTAs in sync.
+  const bookingUrl = "https://cal.com/ameet/ai-audit-workshop";
+  // TODO(ameet): Confirm the public contact email you want displayed on the site.
+  const contactEmail = "hello@bytebuilderslab.com";
+  // TODO(ameet): Replace with your final LinkedIn profile URL.
+  const linkedInUrl = "https://www.linkedin.com/in/ameet-madan/";
 
   return (
     <>
@@ -248,6 +254,7 @@ export default function LocalizedPage({
                     key={panel.category}
                     className="overflow-hidden rounded-[2rem] border border-[var(--color-line)] bg-[var(--color-ink-soft)] shadow-[var(--shadow-card)]"
                   >
+                    {/* TODO(ameet): Replace these translated example-panel placeholders in both locale files with real workflows or case-study entries from your side. */}
                     <div className="flex items-center justify-between border-b border-[var(--color-line)] px-6 py-5">
                       <div>
                         <p className="text-xs font-semibold uppercase tracking-[0.2em] text-[var(--color-muted)]">
@@ -347,7 +354,7 @@ export default function LocalizedPage({
                   </ul>
 
                   <a
-                    href="https://cal.com"
+                    href={bookingUrl}
                     target="_blank"
                     rel="noreferrer"
                     className="mt-8 inline-flex w-full items-center justify-center gap-2 rounded-full border border-[var(--color-ink)] bg-[var(--color-ink)] px-6 py-3 text-sm font-semibold text-white transition hover:bg-[var(--color-accent-deep)]"
@@ -407,6 +414,7 @@ export default function LocalizedPage({
               </div>
 
               <div className="mt-12 grid gap-6 md:grid-cols-2 xl:grid-cols-3">
+                {/* TODO(ameet): Replace the placeholder proof cards in the locale files with real client/project outcomes from your side. */}
                 {t.proofCards.map((card) => (
                   <article
                     key={card.metric}
@@ -431,6 +439,7 @@ export default function LocalizedPage({
             <div className="mx-auto grid max-w-7xl gap-12 px-6 py-20 lg:grid-cols-[0.95fr_1.05fr] lg:px-10">
               <div className="rounded-[2rem] border border-[var(--color-line)] bg-white p-5 shadow-[var(--shadow-card)]">
                 <div className="relative min-h-[28rem] overflow-hidden rounded-[1.6rem] border border-dashed border-[var(--color-line-strong)] bg-[linear-gradient(180deg,rgba(241,245,249,0.9),rgba(225,232,240,0.9))]">
+                  {/* TODO(ameet): Replace with the final portrait/image asset you want to use here. */}
                   <Image
                     src="/Headshot_Ameet_Madan.png"
                     alt="Portrait"
@@ -498,7 +507,7 @@ export default function LocalizedPage({
                 {t.sections.final.copy}
               </p>
               <a
-                href="https://cal.com"
+                href={bookingUrl}
                 target="_blank"
                 rel="noreferrer"
                 className="mt-10 inline-flex items-center gap-2 rounded-full border border-white bg-white px-6 py-3 text-sm font-semibold text-[var(--color-ink)] transition hover:bg-[var(--color-accent-soft)]"
@@ -539,13 +548,13 @@ export default function LocalizedPage({
                 </a>
                 <a
                   className="block transition hover:text-white"
-                  href="mailto:hello@bytebuilderslab.com"
+                  href={`mailto:${contactEmail}`}
                 >
-                  hello@bytebuilderslab.com
+                  {contactEmail}
                 </a>
                 <a
                   className="block transition hover:text-white"
-                  href="https://www.linkedin.com"
+                  href={linkedInUrl}
                   target="_blank"
                   rel="noreferrer"
                 >
@@ -555,7 +564,7 @@ export default function LocalizedPage({
               <div className="space-y-3">
                 <a
                   className="block transition hover:text-white"
-                  href="https://cal.com"
+                  href={bookingUrl}
                   target="_blank"
                   rel="noreferrer"
                 >

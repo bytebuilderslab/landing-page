@@ -2,8 +2,8 @@
 title: The Auto-Support Vault
 description: How The Auto-Support Vault solves customer support overwhelmed by 'how-to' tickets with AI and automation.
 excerpt: Lower churn; Support team focuses on complex bugs.
-publishedAt: 2024-05-20
-updatedAt: 2024-05-20
+publishedAt: 2026-04-20
+updatedAt: 2026-04-20
 author: Ameet Madan
 category: AI Solutions
 tags:

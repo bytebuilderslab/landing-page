@@ -2,8 +2,8 @@
 title: The 24/7 Agent de Régie
 description: How The 24/7 Agent de Régie solves agents spending weekends answering homegate/immoscout inquiries with AI and automation.
 excerpt: 4x faster response; Agents only attend high-intent viewings.
-publishedAt: 2024-05-20
-updatedAt: 2024-05-20
+publishedAt: 2026-04-20
+updatedAt: 2026-04-20
 author: Ameet Madan
 category: AI Solutions
 tags:

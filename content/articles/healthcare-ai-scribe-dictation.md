@@ -2,8 +2,8 @@
 title: The Invisible Scribe
 description: How The Invisible Scribe solves doctors spending 2 hours/day on post-consultation admin/letters with AI and automation.
 excerpt: 1.5 extra patients seen per day.
-publishedAt: 2024-05-20
-updatedAt: 2024-05-20
+publishedAt: 2026-04-20
+updatedAt: 2026-04-20
 author: Ameet Madan
 category: AI Solutions
 tags:

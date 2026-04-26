@@ -2,8 +2,8 @@
 title: The Archive Architect
 description: How The Archive Architect solves searching through 20 years of cad/project history is impossible with AI and automation.
 excerpt: Instant access to 'Institutional Knowledge.'
-publishedAt: 2024-05-20
-updatedAt: 2024-05-20
+publishedAt: 2026-04-20
+updatedAt: 2026-04-20
 author: Ameet Madan
 category: AI Solutions
 tags:

@@ -2,8 +2,8 @@
 title: The Zero-Hour Accountant
 description: How The Zero-Hour Accountant solves manually categorizing thousands of receipts and invoices with AI and automation.
 excerpt: Tax season prep time reduced by 70%.
-publishedAt: 2024-05-20
-updatedAt: 2024-05-20
+publishedAt: 2026-04-20
+updatedAt: 2026-04-20
 author: Ameet Madan
 category: AI Solutions
 tags:

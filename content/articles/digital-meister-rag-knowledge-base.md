@@ -2,8 +2,8 @@
 title: The Digital Meister
 description: How The Digital Meister solves technical manuals scattered in pdfs; staff can't find info quickly with AI and automation.
 excerpt: 30% reduction in machine downtime.
-publishedAt: 2024-05-20
-updatedAt: 2024-05-20
+publishedAt: 2026-04-20
+updatedAt: 2026-04-20
 author: Ameet Madan
 category: AI Solutions
 tags:

@@ -2,8 +2,8 @@
 title: The Gala Orchestrator
 description: How The Gala Orchestrator solves manual coordination of 50+ vendors for a single gala with AI and automation.
 excerpt: Zero missed deadlines; lower stress for leads.
-publishedAt: 2024-05-20
-updatedAt: 2024-05-20
+publishedAt: 2026-04-20
+updatedAt: 2026-04-20
 author: Ameet Madan
 category: AI Solutions
 tags:

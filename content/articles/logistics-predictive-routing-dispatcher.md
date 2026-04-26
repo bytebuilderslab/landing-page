@@ -2,8 +2,8 @@
 title: The Borderless Dispatcher
 description: How The Borderless Dispatcher solves dispatchers manually rerouting trucks based on border traffic with AI and automation.
 excerpt: 15% reduction in fuel costs/idle time.
-publishedAt: 2024-05-20
-updatedAt: 2024-05-20
+publishedAt: 2026-04-20
+updatedAt: 2026-04-20
 author: Ameet Madan
 category: AI Solutions
 tags:

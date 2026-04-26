@@ -2,8 +2,8 @@
 title: The Talent Filter
 description: How The Talent Filter solves 500+ cvs for one role; manual screening takes weeks with AI and automation.
 excerpt: 80% reduction in 'Time-to-Hire.'
-publishedAt: 2024-05-20
-updatedAt: 2024-05-20
+publishedAt: 2026-04-20
+updatedAt: 2026-04-20
 author: Ameet Madan
 category: AI Solutions
 tags:
