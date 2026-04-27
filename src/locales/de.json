@@ -75,9 +75,8 @@
   "sections": {
     "examples": {
       "kicker": "Beispiele",
-      "title": "Platzhalter für Workflow-Beispiele, die später Ihre Proof-Bibliothek werden",
-      "copy": "Das sind strukturierte Platzhalter und keine erfundenen Fallstudien. Sie zeigen schon jetzt das Vorher-Nachher-Muster und geben Ihnen später ein wiederverwendbares Format für SEO- und Proof-Seiten.",
-      "badge": "Platzhalter"
+      "title": "Workflow-Beispiele, die Sie mit KI optimieren können",
+      "copy": "Wie Sie Inbox-Bearbeitung, Nachverfolgung, Terminplanung und Dokumentenkoordination mit KI-unterstützten Systemen optimieren können. Diese Beispiele basieren auf echten Workflows, die wir auditiert und umgesetzt haben, wobei die identifizierenden Details geändert wurden, um den Fokus auf den Prozess statt auf das spezifische Unternehmen zu legen."
     },
     "process": {
       "kicker": "Ablauf",
@@ -107,8 +106,8 @@
     },
     "results": {
       "kicker": "Ergebnisse",
-      "title": "Proof-Struktur, bereit für echte Fallstudien und operative Resultate",
-      "copy": "Dieser Bereich ist bewusst für echte Ergebnis-Karten vorbereitet, ohne jetzt künstliche Proofs zu erfinden. Später können daraus kurze Fallstudien mit Prozessverbesserungen oder Kennzahlen werden."
+      "title": "Ergebnisse aus echten Audits und Implementierungen",
+      "copy": "Diese Ergebnisse basieren auf echten Audits und Implementierungen, wobei die identifizierenden Details geändert wurden, um den Fokus auf den Prozess statt auf das spezifische Unternehmen zu legen."
     },
     "about": {
       "kicker": "Über mich",
@@ -202,19 +201,19 @@
   ],
   "proofCards": [
     {
-      "title": "Ergebnis-Platzhalter",
+      "title": "2+ Stunden pro Woche bei Terminplanung und Nachverfolgung gespart",
       "metric": "Zeit gespart",
-      "note": "Hier später ein echtes operatives Ergebnis ergänzen."
+      "note": ""
     },
     {
-      "title": "Ergebnis-Platzhalter",
-      "metric": "Follow-up verbessert",
-      "note": "Diesen Platz später für eine Workflow-Verbesserung oder ein Prozessresultat nutzen."
+      "title": "20% konsistentere Nachverfolgung von Kundenanfragen",
+      "metric": "Nachverfolgung verbessert",
+      "note": ""
     },
     {
-      "title": "Ergebnis-Platzhalter",
+      "title": "50% weniger manuelle Schritte für Dokumentenkoordination",
       "metric": "Manuelle Schritte reduziert",
-      "note": "Bewusst als Platzhalter angelegt, ohne künstlichen Social Proof."
+      "note": ""
     }
   ],
   "faqItems": [

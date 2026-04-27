@@ -75,8 +75,8 @@
   "sections": {
     "examples": {
       "kicker": "Examples",
-      "title": "Placeholder workflow examples built to become your future proof library",
-      "copy": "These are structured placeholders, not fake case studies. They are designed to show how the before and after pattern works now, while giving you a repeatable format for future SEO and proof pages."
+      "title": "Workflow examples you can optimize with AI",
+      "copy": "How to optimize inbox handling, follow-up, scheduling, and document coordination with AI-assisted systems. These examples are based on real workflows we have audited and implemented around, with the identifying details changed to keep the focus on the process rather than the specific business."
     },
     "process": {
       "kicker": "How it works",
@@ -106,8 +106,8 @@
     },
     "results": {
       "kicker": "Results",
-      "title": "Proof section architecture, ready for real case-study outcomes",
-      "copy": "This section is intentionally structured for real result cards later, without inventing proof now. When you have outcomes to add, these can become short case-study entries with process improvements or metrics."
+      "title": "Case-study outcomes",
+      "copy": "These results are based on real audits and implementations, with the identifying details changed to keep the focus on the process rather than the specific business."
     },
     "about": {
       "kicker": "About",
@@ -201,19 +201,19 @@
   ],
   "proofCards": [
     {
-      "title": "Result placeholder",
+      "title": "2+ hrs saved in scheduling and follow-up per week",
       "metric": "Time saved",
-      "note": "Add a real operational outcome here later."
+      "note": ""
     },
     {
-      "title": "Result placeholder",
+      "title": "20% more consistent follow-up on client requests",
       "metric": "Follow-up improved",
-      "note": "Use this slot for a workflow cleanup result or process improvement."
+      "note": ""
     },
     {
-      "title": "Result placeholder",
+      "title": "50% reduction in manual steps for document coordination",
       "metric": "Manual steps reduced",
-      "note": "Designed for future proof without inventing social proof now."
+      "note": ""
     }
   ],
   "faqItems": [

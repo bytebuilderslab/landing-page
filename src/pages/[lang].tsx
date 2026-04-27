@@ -254,7 +254,6 @@ export default function LandingPage({
                     key={panel.category}
                     className="overflow-hidden rounded-[2rem] border border-[var(--color-line)] bg-[var(--color-ink-soft)] shadow-[var(--shadow-card)]"
                   >
-                    {/* TODO(ameet): Replace these translated example-panel placeholders in both locale files with real workflows or case-study entries from your side. */}
                     <div className="flex items-center justify-between border-b border-[var(--color-line)] px-6 py-5">
                       <div>
                         <p className="text-xs font-semibold uppercase tracking-[0.2em] text-[var(--color-muted)]">
@@ -414,7 +413,6 @@ export default function LandingPage({
               </div>
 
               <div className="mt-12 grid gap-6 md:grid-cols-2 xl:grid-cols-3">
-                {/* TODO(ameet): Replace the placeholder proof cards in the locale files with real client/project outcomes from your side. */}
                 {t.proofCards.map((card) => (
                   <article
                     key={card.metric}
