@@ -22,6 +22,7 @@ function buildSitemapXml(siteUrl: string) {
     { path: "/en", lastModified: undefined, changeFrequency: "weekly", priority: "1.0" },
     { path: "/de", lastModified: undefined, changeFrequency: "weekly", priority: "0.9" },
     { path: "/articles", lastModified: undefined, changeFrequency: "weekly", priority: "0.8" },
+    { path: "/privacy", lastModified: undefined, changeFrequency: "yearly", priority: "0.3" },
   ];
 
   const articlePages = getAllArticlesMeta().map((article) => ({

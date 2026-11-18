@@ -132,7 +132,8 @@
     },
     "footer": {
       "descriptor": "AI workflow audits and implementation for small businesses dealing with repetitive admin drag.",
-      "booking": "Book the audit"
+      "booking": "Book the audit",
+      "privacy": "Privacy"
     }
   },
   "processSteps": [

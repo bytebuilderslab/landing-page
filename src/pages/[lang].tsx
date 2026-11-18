@@ -568,6 +568,9 @@ export default function LandingPage({
                 >
                   {t.sections.footer.booking}
                 </a>
+                <Link className="block transition hover:text-white" href="/privacy">
+                  {t.sections.footer.privacy}
+                </Link>
                 <Link className="block transition hover:text-white" href={otherBase}>
                   {otherLanguage.toUpperCase()}
                 </Link>
