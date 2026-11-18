@@ -1,0 +1,17 @@
+{
+  // Cloudflare Worker for bytebuilderslab.com: the static export in out/ plus a
+  // tiny script (worker/index.ts) that redirects "/" by Accept-Language.
+  // Workers Builds runs `npm run build` and then `npx wrangler deploy`.
+  "$schema": "./node_modules/wrangler/config-schema.json",
+  "name": "bytebuilderslab",
+  "main": "worker/index.ts",
+  "compatibility_date": "2026-11-13",
+  "workers_dev": true,
+  "preview_urls": true,
+  "assets": {
+    "directory": "./out",
+    "binding": "ASSETS",
+    "not_found_handling": "404-page",
+    "run_worker_first": ["/"]
+  }
+}

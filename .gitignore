@@ -45,3 +45,7 @@ next-env.d.ts
 dist/
 __pycache__/
 .ruff_cache/
+
+# Cloudflare Workers local state
+.wrangler/
+.dev.vars*

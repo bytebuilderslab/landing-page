@@ -1,6 +1,6 @@
 # AGENTS.md
 
-bytebuilderslab landing page: a bilingual (de/en) Next.js site on the Pages Router with Markdown articles in `content/articles/` and Tailwind. Deployed from `main` on Vercel.
+bytebuilderslab landing page: a bilingual (de/en) Next.js site on the Pages Router with Markdown articles in `content/articles/` and Tailwind. Built as a static export (`out/`) and deployed from `main` as the Cloudflare Worker `bytebuilderslab` (`wrangler.jsonc`); `worker/index.ts` only redirects `/` to `/de` or `/en` by Accept-Language, and `scripts/generate-sitemap.mjs` writes `out/sitemap.xml` after `next build`. Every page must be static: no `getServerSideProps` or API routes.
 
 ## Toolchain
 
