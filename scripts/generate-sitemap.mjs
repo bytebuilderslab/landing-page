@@ -1,14 +1,18 @@
-import type { GetServerSideProps } from "next";
-import { getAllArticlesMeta } from "@/lib/articles";
+// Writes out/sitemap.xml after `next build` (static export). It replaced the
+// getServerSideProps route at /sitemap.xml, which a static export can't run.
+// Imports the TypeScript article loader directly: Node strips the types.
+import fs from "node:fs";
+import path from "node:path";
+import { getAllArticlesMeta } from "../src/lib/articles.ts";
 
 const DEFAULT_SITE_URL = "https://bytebuilderslab.com";
 
-function normalizeSiteUrl(value?: string) {
+function normalizeSiteUrl(value) {
   if (!value) return DEFAULT_SITE_URL;
   return value.endsWith("/") ? value.slice(0, -1) : value;
 }
 
-function escapeXml(value: string) {
+function escapeXml(value) {
   return value
     .replace(/&/g, "&amp;")
     .replace(/"/g, "&quot;")
@@ -17,7 +21,7 @@ function escapeXml(value: string) {
     .replace(/>/g, "&gt;");
 }
 
-function buildSitemapXml(siteUrl: string) {
+function buildSitemapXml(siteUrl) {
   const staticPages = [
     { path: "/en", lastModified: undefined, changeFrequency: "weekly", priority: "1.0" },
     { path: "/de", lastModified: undefined, changeFrequency: "weekly", priority: "0.9" },
@@ -51,20 +55,6 @@ function buildSitemapXml(siteUrl: string) {
     `<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">${urls}</urlset>`;
 }
 
-export const getServerSideProps: GetServerSideProps = async ({ res }) => {
-  const siteUrl = normalizeSiteUrl(process.env.NEXT_PUBLIC_SITE_URL);
-  const sitemap = buildSitemapXml(siteUrl);
-
-  res.setHeader("Content-Type", "application/xml");
-  res.setHeader("Cache-Control", "public, s-maxage=3600, stale-while-revalidate=86400");
-  res.write(sitemap);
-  res.end();
-
-  return {
-    props: {},
-  };
-};
-
-export default function Sitemap() {
-  return null;
-}
+const outFile = path.join(process.cwd(), "out", "sitemap.xml");
+fs.writeFileSync(outFile, buildSitemapXml(normalizeSiteUrl(process.env.NEXT_PUBLIC_SITE_URL)));
+console.log(`sitemap: wrote ${outFile}`);
