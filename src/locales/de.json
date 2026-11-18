@@ -132,7 +132,8 @@
     },
     "footer": {
       "descriptor": "KI-Workflow-Audits und Umsetzung für kleine Unternehmen mit wiederkehrender Admin-Reibung.",
-      "booking": "Audit buchen"
+      "booking": "Audit buchen",
+      "privacy": "Datenschutz"
     }
   },
   "processSteps": [
